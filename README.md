@@ -1,2 +1,0 @@
-# water-fountain
-NTU student
